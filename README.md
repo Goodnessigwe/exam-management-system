@@ -20,7 +20,7 @@ Students can log in, take exams, and view updates.
 
 2. Import the database:
 
-Find sql/database.sql and import it into phpMyAdmin or MySQL CLI.
+Find sql/exam_system.sql and import it into phpMyAdmin or MySQL CLI.
 
 3. Update the database connection in config/Database.php.
 
