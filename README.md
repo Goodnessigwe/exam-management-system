@@ -32,6 +32,8 @@ Admin: admin@gmail.com / admin123
 
 Student: info1@gmail.com / 111111
 
+6. View Live(Deployed) project here: https://goodysit.free.nf/
+
 Tech Stack
 
 PHP 8+ (OOP)
