@@ -4,6 +4,10 @@ A simple **Exam Management System** built with **PHP (OOP), MySQL, and Bootstrap
 It allows admins to manage students, create and edit exams with questions, post announcements, and configure profile settings.  
 Students can log in, take exams, and view updates.
 
+
+## 🚀 Live Projct
+🔗 [View Project]( https://goodysit.free.nf/)  
+
 ## Features
 - Admin Dashboard
 - Student Management (CRUD)
@@ -16,7 +20,7 @@ Students can log in, take exams, and view updates.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/exam-management-system.git
+   git clone https://github.com/Goodnessigwe/exam-management-system.git
 
 2. Import the database:
 
@@ -32,7 +36,6 @@ Admin: admin@gmail.com / admin123
 
 Student: info1@gmail.com / 111111
 
-6. View Live(Deployed) project here: https://goodysit.free.nf/
 
 Tech Stack
 
